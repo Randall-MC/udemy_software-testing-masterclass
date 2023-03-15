@@ -1,0 +1,28 @@
+/ ******************* /
+/ Registro de usuario /
+/ ******************* /
+- Prueba 1
+Pedro-Perez
+Pedro
+Pérez
+Pedrop3#
+- Prueba 3
+12345!"#$%
+678&/()
+90)=?¡
+Password1!
+- Prueba 4
+Mario123
+Mario
+Bros
+mario
+- Prueba 5
+Pedro-Perez
+Pedro
+Pérez
+Pedrop3#
+- Prueba 6
+Pedro-Perez1
+Pedro
+Pérez
+Pedrop3#
